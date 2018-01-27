@@ -4,8 +4,8 @@
 ####################################
 #
 title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+email: davidmkjo@gmail.com
+description: A awesome blog theme powered by jekyll.
 url: # the base hostname & protocol for your site
 
 
@@ -36,8 +36,8 @@ owner:
   name: Leonids
   avatar: leonids-logo.png
   job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  bio: "A blog theme powered by jekyllll."
+  email: "davidmkjo@gmail.com"
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: github.com/WizMJ
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
