@@ -2,7 +2,7 @@
 layout: post
 title: Sample Post
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-categories: [hello world]
+categories: [머신러닝 모델링 (Machine Learning)]
 tags: [sample, programming, machine learning]
 comments: true
 image:

@@ -34,9 +34,9 @@ kramdown:
 #
 owner:
   name: Leonids
-  avatar: leonids-logo.png
+  avatar: bio.jpg
   job: "A jekyll theme"
-  bio: "A blog theme powered by jekyllll."
+  bio: "Data Analytics & Science by WizMJ"
   email: "davidmkjo@gmail.com"
   disqus-shortname:
   twitter: #username
