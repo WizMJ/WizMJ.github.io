@@ -6,7 +6,7 @@
 title: Leonids
 email: davidmkjo@gmail.com
 description: A awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+url: "https://wizmj.github.io/"
 
 
 #
@@ -38,7 +38,7 @@ owner:
   job: "A jekyll theme"
   bio: "Data Analytics & Science by WizMJ"
   email: "davidmkjo@gmail.com"
-  disqus-shortname:
+  disqus-shortname: wizmj
   twitter: #username
   facebook: #username
   google:
