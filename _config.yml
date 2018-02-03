@@ -5,7 +5,7 @@
 #
 title: Leonids
 email: davidmkjo@gmail.com
-description: A awesome blog theme powered by jekyll.
+description: Thinking by Numbers powered by Jekyll.
 url: "https://wizmj.github.io/"
 
 
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Minki Jo
   avatar: bio.jpg
   job: "A jekyll theme"
   bio: "Data Analytics & Science by WizMJ"
@@ -68,3 +68,4 @@ owner:
   500px: #username
   codepen: #username
   reddit: #username
+  wordpress: WizMJ

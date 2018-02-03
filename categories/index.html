@@ -3,7 +3,41 @@ layout: page
 title:  Categories
 permalink: /categories/
 ---
+
 <div class="tag-list">
+    <div class="tag-group">
+      <h5 class="tag-group-title" id="{{ cat_name | slugize }}">Machine learning modeling</h5>
+      {% for post in site.categories.MachineLearning  %}
+      <article class="tag-item">
+        <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
+      </article>
+      {% endfor %}
+    </div>
+</div>
+
+<div class="tag-list">
+    <div class="tag-group">
+      <h5 class="tag-group-title" id="{{ cat_name | slugize }}">Predictive Analysis</h5>
+      {% for post in site.categories.PredictiveAnalysis  %}
+      <article class="tag-item">
+        <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
+      </article>
+      {% endfor %}
+    </div>
+</div>
+
+<div class="tag-list">
+    <div class="tag-group">
+      <h5 class="tag-group-title" id="{{ cat_name | slugize }}">Visualization</h5>
+      {% for post in site.categories.Visualization %}
+      <article class="tag-item">
+        <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
+      </article>
+      {% endfor %}
+    </div>
+</div>
+
+<!-- <div class="tag-list">
 {% for cat in site.categories %}
   <div class="tag-group">
     {% capture cat_name %}{{ cat | first }}{% endcapture %}
@@ -15,4 +49,4 @@ permalink: /categories/
     {% endfor %}
   </div>
 {% endfor %}
-</div>
+</div> -->
